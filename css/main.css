@@ -1,6 +1,9 @@
 h1 {
   font-family: sans-serif
 }
+h2 {
+  font-family: cursive,fantasy,monospace,san-serif,serif;
+}
 /*Flexible Images*/
 img{
 max-width:100%;
