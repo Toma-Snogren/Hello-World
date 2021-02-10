@@ -4,6 +4,11 @@ h1 {
 h2 {
   font-family: cursive,fantasy,monospace,san-serif,serif;
 }
+q,
+blockquote{
+  background: lightgreen;
+  color: darkgreen;
+}
 /*Flexible Images*/
 img{
 max-width:100%;
