@@ -9,9 +9,8 @@ ul {
 }
 ul {color: teal;}
 q,
-blockquote{
-  background: lightgreen;
-  color: darkgreen;
+body{
+  background-color: lightgreen;
 }
 /*Flexible Images*/
 img{
